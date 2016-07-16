@@ -1,0 +1,154 @@
+[0420/114129:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0420/114238:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0420/145259:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0420/153152:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0420/154111:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0420/154202:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0420/154251:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0420/154900:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0420/155001:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0420/155046:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0420/155455:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0420/155610:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0420/161012:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0602/103228:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/103228:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0602/103228:ERROR:exception_snapshot_win.cc(57)] thread ID 12908 not found in process
+[0602/103228:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0602/103928:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/103928:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0602/103928:ERROR:exception_snapshot_win.cc(57)] thread ID 20084 not found in process
+[0602/103928:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0602/112757:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/112757:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0602/112757:ERROR:exception_snapshot_win.cc(57)] thread ID 4740 not found in process
+[0602/112757:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0602/112930:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/112930:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0602/112930:ERROR:exception_snapshot_win.cc(57)] thread ID 14528 not found in process
+[0602/112930:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0602/113439:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/113439:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0602/113439:ERROR:exception_snapshot_win.cc(57)] thread ID 6428 not found in process
+[0602/113439:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0602/114118:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/114118:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0602/114118:ERROR:exception_snapshot_win.cc(57)] thread ID 12032 not found in process
+[0602/114118:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0602/114354:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/114354:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0602/114354:ERROR:exception_snapshot_win.cc(57)] thread ID 7420 not found in process
+[0602/114354:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0602/143501:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/143501:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0602/143501:ERROR:exception_snapshot_win.cc(57)] thread ID 4308 not found in process
+[0602/143501:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0602/143721:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/143721:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0602/143721:ERROR:exception_snapshot_win.cc(57)] thread ID 16168 not found in process
+[0602/143721:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0602/144137:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/144137:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0602/144137:ERROR:exception_snapshot_win.cc(57)] thread ID 20376 not found in process
+[0602/144137:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0602/151112:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/151112:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0602/151112:ERROR:exception_snapshot_win.cc(57)] thread ID 8588 not found in process
+[0602/151112:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0602/151526:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/151526:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0602/151526:ERROR:exception_snapshot_win.cc(57)] thread ID 7892 not found in process
+[0602/151526:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0602/152036:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0602/152036:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0602/152036:ERROR:exception_snapshot_win.cc(57)] thread ID 18964 not found in process
+[0602/152036:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0603/102254:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0603/102254:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0603/102254:ERROR:exception_snapshot_win.cc(57)] thread ID 15032 not found in process
+[0603/102254:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0603/102538:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0603/102538:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0603/102538:ERROR:exception_snapshot_win.cc(57)] thread ID 7484 not found in process
+[0603/102538:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0603/102554:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0603/102554:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0603/102554:ERROR:exception_snapshot_win.cc(57)] thread ID 18864 not found in process
+[0603/102554:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0603/103345:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0603/103345:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0603/103345:ERROR:exception_snapshot_win.cc(57)] thread ID 18344 not found in process
+[0603/103345:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0603/103401:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0603/103401:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0603/103401:ERROR:exception_snapshot_win.cc(57)] thread ID 12072 not found in process
+[0603/103401:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0603/103639:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0603/103639:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0603/103639:ERROR:exception_snapshot_win.cc(57)] thread ID 20580 not found in process
+[0603/103639:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0603/103732:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0603/103732:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0603/103732:ERROR:exception_snapshot_win.cc(57)] thread ID 13408 not found in process
+[0603/103732:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0603/103933:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0603/103933:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0603/103933:ERROR:exception_snapshot_win.cc(57)] thread ID 10960 not found in process
+[0603/103933:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0603/112643:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0603/112643:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0603/112643:ERROR:exception_snapshot_win.cc(57)] thread ID 7700 not found in process
+[0603/112643:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0603/112936:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0603/112936:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0603/112936:ERROR:exception_snapshot_win.cc(57)] thread ID 4832 not found in process
+[0603/112936:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0603/113103:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0603/113103:ERROR:process_reader_win.cc(113)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights.  (0xc0000022)
+[0603/113103:ERROR:exception_snapshot_win.cc(57)] thread ID 16672 not found in process
+[0603/113103:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0712/132250:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/132324:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/132502:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/132529:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/132627:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/135249:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/135423:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/143721:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/143847:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/143958:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/144905:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/150523:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/151925:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/151951:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/154711:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/154951:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/155149:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/155423:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/155459:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/155535:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/161238:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/161319:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/161412:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/161434:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/161718:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/161958:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/162029:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/162450:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0712/162603:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0713/101346:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/095237:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/095247:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/103059:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/103108:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/103205:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/103253:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/103332:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/103849:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/150421:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/151141:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/151208:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/151302:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/160405:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/160636:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0714/160743:ERROR:file_io.cc(30)] read: expected 4, observed 0

@@ -1,0 +1,23 @@
+Auto_Data:
+  first_name: Firstname
+  last_name: Lastname
+  email: email@email.com
+  address_auto: Approved
+  address_auto: 15000 Capital One Dr Richmond, VA 23238
+# address2: 678 Address St Glen Allen Virgi
+# address2: 678 Address St
+  phone: 8041234567
+  dob: 01011980
+  ssn: 012345678
+# address1: 678 Address St
+# city: Dream Land
+# state: Virginia
+# zip: 23226
+# address3: 123 Address St
+  rent_or_home: Own
+  monthly_paymnet: 500
+  emply_status: Full Time
+  annual_income: 60000
+# Income: 50000
+
+
