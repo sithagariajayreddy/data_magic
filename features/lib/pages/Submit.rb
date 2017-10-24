@@ -23,7 +23,7 @@ class Bergdorf
   # end
 
   def open
-    @browser.goto("https://bergdorfgoodman.capitalonecards.com")
+    @browser.goto("xxxx")
   end
 
   def select_continue
